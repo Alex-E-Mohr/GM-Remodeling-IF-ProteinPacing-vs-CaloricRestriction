@@ -1,0 +1,193 @@
+Group,Time,Metabolite,Abundance
+CR,WK0,Decanoylcarnitine,-0.11176342
+CR,WK0,Asymmetric dimethylarginine,-0.096514011
+CR,WK0,Alanine,-0.051670504
+CR,WK0,Malonic acid,-0.313523408
+CR,WK0,Valeric acid,0.052624663
+CR,WK0,Acetylcarnitine,-0.507703499
+CR,WK0,Pyroglutamic acid,-0.087158052
+CR,WK0,Indole-3-lactic acid,-0.08129855
+CR,WK0,Dimethylglycine,8.25E-05
+CR,WK0,Cytidine,0.200518513
+CR,WK0,Sarcosine,-0.06949732
+CR,WK0,Choline,0.190164923
+CR,WK0,Asparagine,-0.152672566
+CR,WK0,Kynurenine,-0.075221001
+CR,WK0,Urate,-0.007523232
+CR,WK0,9-Octadecynoic acid,-0.086277423
+CR,WK0,"2,3-Dihydroxybenzoic acid",0.245880927
+CR,WK0,Tryptophan,-0.068088508
+CR,WK0,Agmatine,-0.090179069
+CR,WK0,Oxaloacetic acid,-0.252561229
+CR,WK0,Sorbitol,0.050569485
+CR,WK0,Dulcitol,0.081994702
+CR,WK0,5-Hydroxyindoleacetic acid,-0.006055083
+CR,WK0,Xylitol,0.104446315
+CR,WK0,Palmitic acid,0.005030846
+CR,WK0,D-Galacturonic acid,0.022307103
+CR,WK0,N-Acetylglutamine,0.239837049
+CR,WK0,L-(+)-Arabinose,0.226153422
+CR,WK0,2-Hydroxyglutarate,0.18466122
+CR,WK0,Myoinositol,0.172839061
+CR,WK0,D-Mannitol,0.089604177
+CR,WK0,Protocatechuic acid,0.105167054
+CR,WK4,Decanoylcarnitine,0.186422386
+CR,WK4,Asymmetric dimethylarginine,0.048166094
+CR,WK4,Alanine,0.043088783
+CR,WK4,Malonic acid,-0.181227092
+CR,WK4,Valeric acid,-0.111947713
+CR,WK4,Acetylcarnitine,0.046462029
+CR,WK4,Pyroglutamic acid,0.163281053
+CR,WK4,Indole-3-lactic acid,0.11169209
+CR,WK4,Dimethylglycine,0.126915548
+CR,WK4,Cytidine,0.095102886
+CR,WK4,Sarcosine,0.076591095
+CR,WK4,Choline,0.149681168
+CR,WK4,Asparagine,0.202794136
+CR,WK4,Kynurenine,0.145375579
+CR,WK4,Urate,0.104691501
+CR,WK4,9-Octadecynoic acid,-0.041255815
+CR,WK4,"2,3-Dihydroxybenzoic acid",0.199287095
+CR,WK4,Tryptophan,0.101406637
+CR,WK4,Agmatine,0.173441519
+CR,WK4,Oxaloacetic acid,0.269067476
+CR,WK4,Sorbitol,0.209836328
+CR,WK4,Dulcitol,0.248702328
+CR,WK4,5-Hydroxyindoleacetic acid,0.112643782
+CR,WK4,Xylitol,0.152336787
+CR,WK4,Palmitic acid,-0.079686441
+CR,WK4,D-Galacturonic acid,0.051241796
+CR,WK4,N-Acetylglutamine,-0.021974163
+CR,WK4,L-(+)-Arabinose,-0.022507019
+CR,WK4,2-Hydroxyglutarate,0.015379453
+CR,WK4,Myoinositol,0.13741496
+CR,WK4,D-Mannitol,0.339834248
+CR,WK4,Protocatechuic acid,0.369955846
+CR,WK8,Decanoylcarnitine,0.208145835
+CR,WK8,Asymmetric dimethylarginine,0.253908256
+CR,WK8,Alanine,0.186632392
+CR,WK8,Malonic acid,-0.223790516
+CR,WK8,Valeric acid,-0.109449517
+CR,WK8,Acetylcarnitine,0.1733054
+CR,WK8,Pyroglutamic acid,0.216660793
+CR,WK8,Indole-3-lactic acid,0.188993327
+CR,WK8,Dimethylglycine,0.153235953
+CR,WK8,Cytidine,0.038970834
+CR,WK8,Sarcosine,0.175080477
+CR,WK8,Choline,0.062970369
+CR,WK8,Asparagine,0.215578007
+CR,WK8,Kynurenine,0.230315579
+CR,WK8,Urate,0.162207603
+CR,WK8,9-Octadecynoic acid,-0.138971167
+CR,WK8,"2,3-Dihydroxybenzoic acid",0.406026729
+CR,WK8,Tryptophan,0.201312482
+CR,WK8,Agmatine,0.336766745
+CR,WK8,Oxaloacetic acid,0.300928003
+CR,WK8,Sorbitol,0.15221641
+CR,WK8,Dulcitol,0.142889489
+CR,WK8,5-Hydroxyindoleacetic acid,0.174469385
+CR,WK8,Xylitol,0.065641817
+CR,WK8,Palmitic acid,-0.131337482
+CR,WK8,D-Galacturonic acid,0.220403729
+CR,WK8,N-Acetylglutamine,0.152416612
+CR,WK8,L-(+)-Arabinose,0.111947329
+CR,WK8,2-Hydroxyglutarate,0.034864626
+CR,WK8,Myoinositol,0.200884414
+CR,WK8,D-Mannitol,0.031731357
+CR,WK8,Protocatechuic acid,0.103886159
+IF_P,WK0,Decanoylcarnitine,-0.110019983
+IF_P,WK0,Asymmetric dimethylarginine,-0.061161324
+IF_P,WK0,Alanine,0.055679814
+IF_P,WK0,Malonic acid,-0.274478277
+IF_P,WK0,Valeric acid,-0.031894015
+IF_P,WK0,Acetylcarnitine,-0.125094069
+IF_P,WK0,Pyroglutamic acid,-0.122381682
+IF_P,WK0,Indole-3-lactic acid,0.012606352
+IF_P,WK0,Dimethylglycine,-0.034950193
+IF_P,WK0,Cytidine,-0.080540852
+IF_P,WK0,Sarcosine,0.04823458
+IF_P,WK0,Choline,0.138952889
+IF_P,WK0,Asparagine,-0.126913009
+IF_P,WK0,Kynurenine,-0.024931995
+IF_P,WK0,Urate,0.002616422
+IF_P,WK0,9-Octadecynoic acid,0.00019737
+IF_P,WK0,"2,3-Dihydroxybenzoic acid",-0.030614575
+IF_P,WK0,Tryptophan,-0.046275484
+IF_P,WK0,Agmatine,-0.047109034
+IF_P,WK0,Oxaloacetic acid,-0.134576384
+IF_P,WK0,Sorbitol,-0.121108549
+IF_P,WK0,Dulcitol,-0.18668471
+IF_P,WK0,5-Hydroxyindoleacetic acid,-0.006059997
+IF_P,WK0,Xylitol,0.004313277
+IF_P,WK0,Palmitic acid,-0.046160863
+IF_P,WK0,D-Galacturonic acid,0.025056536
+IF_P,WK0,N-Acetylglutamine,0.013466772
+IF_P,WK0,L-(+)-Arabinose,0.164206436
+IF_P,WK0,2-Hydroxyglutarate,0.146688414
+IF_P,WK0,Myoinositol,0.019094309
+IF_P,WK0,D-Mannitol,-0.153616001
+IF_P,WK0,Protocatechuic acid,-0.050117562
+IF_P,WK4,Decanoylcarnitine,-0.004960963
+IF_P,WK4,Asymmetric dimethylarginine,-0.10046669
+IF_P,WK4,Alanine,-0.132240458
+IF_P,WK4,Malonic acid,0.606616218
+IF_P,WK4,Valeric acid,0.190453158
+IF_P,WK4,Acetylcarnitine,0.105036399
+IF_P,WK4,Pyroglutamic acid,-0.062720658
+IF_P,WK4,Indole-3-lactic acid,-0.176681467
+IF_P,WK4,Dimethylglycine,-0.073907397
+IF_P,WK4,Cytidine,-0.046878104
+IF_P,WK4,Sarcosine,-0.119275851
+IF_P,WK4,Choline,-0.205622967
+IF_P,WK4,Asparagine,-0.08937976
+IF_P,WK4,Kynurenine,-0.253183983
+IF_P,WK4,Urate,-0.157749173
+IF_P,WK4,9-Octadecynoic acid,0.093605408
+IF_P,WK4,"2,3-Dihydroxybenzoic acid",-0.337563637
+IF_P,WK4,Tryptophan,-0.131302507
+IF_P,WK4,Agmatine,-0.25894181
+IF_P,WK4,Oxaloacetic acid,-0.103865072
+IF_P,WK4,Sorbitol,-0.168084486
+IF_P,WK4,Dulcitol,-0.144467843
+IF_P,WK4,5-Hydroxyindoleacetic acid,-0.140498711
+IF_P,WK4,Xylitol,-0.16608153
+IF_P,WK4,Palmitic acid,0.181370016
+IF_P,WK4,D-Galacturonic acid,-0.25193679
+IF_P,WK4,N-Acetylglutamine,-0.092297049
+IF_P,WK4,L-(+)-Arabinose,-0.122036285
+IF_P,WK4,2-Hydroxyglutarate,-0.183712352
+IF_P,WK4,Myoinositol,-0.279901321
+IF_P,WK4,D-Mannitol,-0.195632821
+IF_P,WK4,Protocatechuic acid,-0.208426458
+IF_P,WK8,Decanoylcarnitine,-0.149950666
+IF_P,WK8,Asymmetric dimethylarginine,-0.036071705
+IF_P,WK8,Alanine,-0.09301658
+IF_P,WK8,Malonic acid,0.325738498
+IF_P,WK8,Valeric acid,-0.001191356
+IF_P,WK8,Acetylcarnitine,0.270534863
+IF_P,WK8,Pyroglutamic acid,-0.089236115
+IF_P,WK8,Indole-3-lactic acid,-0.042822731
+IF_P,WK8,Dimethylglycine,-0.151014836
+IF_P,WK8,Cytidine,-0.175662596
+IF_P,WK8,Sarcosine,-0.10166958
+IF_P,WK8,Choline,-0.299013255
+IF_P,WK8,Asparagine,-0.03361575
+IF_P,WK8,Kynurenine,-0.003822943
+IF_P,WK8,Urate,-0.086415915
+IF_P,WK8,9-Octadecynoic acid,0.152999745
+IF_P,WK8,"2,3-Dihydroxybenzoic acid",-0.418198401
+IF_P,WK8,Tryptophan,-0.043655183
+IF_P,WK8,Agmatine,-0.08881377
+IF_P,WK8,Oxaloacetic acid,-0.062295769
+IF_P,WK8,Sorbitol,-0.089777787
+IF_P,WK8,Dulcitol,-0.102219791
+IF_P,WK8,5-Hydroxyindoleacetic acid,-0.115117036
+IF_P,WK8,Xylitol,-0.131696264
+IF_P,WK8,Palmitic acid,0.05675149
+IF_P,WK8,D-Galacturonic acid,-0.048697298
+IF_P,WK8,N-Acetylglutamine,-0.262042102
+IF_P,WK8,L-(+)-Arabinose,-0.331801877
+IF_P,WK8,2-Hydroxyglutarate,-0.176134063
+IF_P,WK8,Myoinositol,-0.2092618
+IF_P,WK8,D-Mannitol,-0.067390548
+IF_P,WK8,Protocatechuic acid,-0.267758441

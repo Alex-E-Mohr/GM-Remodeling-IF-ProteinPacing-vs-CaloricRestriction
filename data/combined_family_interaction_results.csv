@@ -1,0 +1,13 @@
+﻿feature,value,qval,label,sig
+Butyricicoccaceae,WK4,0.002017655,<0.05,3
+Streptococcaceae,WK4,0.049851803,<0.05,3
+Ruminococcaceae,WK4,0.06977659,<0.10,2
+Rikenellaceae,WK4,0.002017655,<0.05,3
+Tannerellaceae,WK4,0.002017655,<0.05,3
+Christensenellaceae,WK4,0.000330883,<0.001,5
+Butyricicoccaceae,WK8,0.13397439,no,1
+Streptococcaceae,WK8,0.573826722,no,1
+Ruminococcaceae,WK8,0.10026158,no,1
+Rikenellaceae,WK8,0.10026158,no,1
+Tannerellaceae,WK8,0.02317294,<0.05,3
+Christensenellaceae,WK8,1.16E-05,<0.001,5

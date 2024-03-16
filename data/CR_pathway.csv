@@ -1,0 +1,25 @@
+Metabolite,Total Cmpd,Hits,Raw p,p,Holm adjust,FDR,Impact
+Nicotinate and nicotinamide metabolism,15,2,3.87E-09,8.4123,1.82E-07,1.82E-07,0.1943
+"Alanine, aspartate and glutamate metabolism",28,11,0.00010212,3.9909,0.0043912,0.00092315,0.53927
+Cysteine and methionine metabolism,33,4,8.50E-05,4.0704,0.0037411,0.00092315,0.14625
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,2,0.00016993,3.7697,0.006967,0.0011016,1
+"Valine, leucine and isoleucine degradation",40,6,0.00018751,3.727,0.0075004,0.0011016,0.04432
+Glycolysis / Gluconeogenesis,26,3,0.00022562,3.6466,0.0087994,0.0011783,0.10044
+Glyoxylate and dicarboxylate metabolism,32,10,0.00033063,3.4807,0.012564,0.001554,0.26456
+Pyruvate metabolism,22,5,0.00059602,3.2247,0.022053,0.0025466,0.2395
+Pantothenate and CoA biosynthesis,19,2,0.0011394,2.9433,0.04102,0.0044628,0.00714
+Primary bile acid biosynthesis,46,2,0.0012749,2.8945,0.04462,0.0046091,0.01516
+Citrate cycle (TCA cycle),20,9,0.0035984,2.4439,0.12235,0.01208,0.51477
+D-Glutamine and D-glutamate metabolism,6,3,0.0061023,2.2145,0.19928,0.017925,0.5
+Amino sugar and nucleotide sugar metabolism,37,2,0.0060386,2.2191,0.19928,0.017925,0.05035
+Taurine and hypotaurine metabolism,8,1,0.0087352,2.0587,0.25332,0.021608,0.42857
+Glycerolipid metabolism,16,2,0.0084342,2.074,0.25303,0.021608,0.09346
+Pyrimidine metabolism,39,3,0.011455,1.941,0.32073,0.026918,0.02264
+"Glycine, serine and threonine metabolism",33,11,0.015136,1.82,0.38811,0.030929,0.51198
+Arginine biosynthesis,14,5,0.014492,1.8389,0.38811,0.030929,0.34518
+Purine metabolism,65,6,0.014375,1.8424,0.38811,0.030929,0.09068
+Tryptophan metabolism,41,3,0.022499,1.6478,0.53998,0.04406,0.25112
+Phenylalanine metabolism,10,4,0.029039,1.537,0.6679,0.052142,0.35714
+Tyrosine metabolism,42,4,0.029954,1.5235,0.6679,0.052142,0.16531
+Glutathione metabolism,28,4,0.029454,1.5308,0.6679,0.052142,0.12267
+Butanoate metabolism,15,5,0.059198,1.2277,1,0.089752,0.03175

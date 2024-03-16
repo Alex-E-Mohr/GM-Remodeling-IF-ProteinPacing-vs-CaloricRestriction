@@ -1,0 +1,15 @@
+Metabolite,Total Cmpd,Hits,Raw p,p,Holm adjust,FDR,Impact
+Pentose and glucuronate interconversions,18,2,0.0021911,2.6593,0.10298,0.058842,0.29688
+Arginine and proline metabolism,38,10,0.0025039,2.6014,0.11518,0.058842,0.40697
+"Glycine, serine and threonine metabolism",33,11,0.0077568,2.1103,0.3413,0.066056,0.51198
+Nicotinate and nicotinamide metabolism,15,2,0.0092757,2.0327,0.39886,0.066056,0.1943
+Amino sugar and nucleotide sugar metabolism,37,2,0.010684,1.9713,0.44872,0.066056,0.05035
+Ascorbate and aldarate metabolism,8,2,0.011244,1.9491,0.46099,0.066056,0.5
+Inositol phosphate metabolism,30,2,0.011244,1.9491,0.46099,0.066056,0.12939
+Glycerophospholipid metabolism,36,2,0.026706,1.5734,1,0.11911,0.02582
+Butanoate metabolism,15,5,0.028795,1.5407,1,0.11911,0.03175
+Tyrosine metabolism,42,4,0.030412,1.517,1,0.11911,0.16531
+Fatty acid elongation,39,1,0.051347,1.2895,1,0.1649,0.10044
+Fatty acid degradation,39,1,0.051347,1.2895,1,0.1649,0.14625
+"Alanine, aspartate and glutamate metabolism",28,11,0.052629,1.2788,1,0.1649,0.53927
+Citrate cycle (TCA cycle),20,9,0.064735,1.1889,1,0.18193,0.51477
